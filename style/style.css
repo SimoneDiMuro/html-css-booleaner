@@ -1,0 +1,11 @@
+header{
+    height: 180px;
+    background-color: lightskyblue;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+}
+
+.logo{
+    max-width: 200px;
+    position: absolute; top: 130px; left: 25px;
+}
