@@ -1,0 +1,73 @@
+body{
+    width: 1100px;
+}
+
+header{
+    height: 90px;
+    background-color: rgb(78, 160, 255);
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+}
+
+.logo{
+    max-width: 200px;
+    position: sticky; top: 100px; left: 25px;
+}
+
+.author{
+    color: rgb(177 229 242)skyblue;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.text{
+    color: gray;
+}
+
+.text2{
+    font-size: small;
+}
+
+.decoration{
+    background-color: yellow;
+}
+
+.line1{
+    background-color: rgb(31, 169, 229);
+    color: white;
+    font-weight: bold;
+}
+
+.line2{
+    background-color: rgb(177 229 242);
+}
+
+.line4{
+    background-color: rgb(177 229 242);
+}
+
+.column1{
+    width: 25%;
+}
+
+.column2{
+    width: 25%;
+}
+
+.background1{
+    width: 200px;
+    height: 150px;
+    color: white;    
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+}
+
+.background2{
+    width: 200px;
+    height: 150px;
+    color: white;    
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+}
